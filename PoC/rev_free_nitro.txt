@@ -22,7 +22,7 @@ public class cry
 	{
 		public static string path()
 		{
-			string data = "C:\\Users\\User\\Desktop\\file.bin"; // of course you must to extract the hexadecimal data from the binary and save it!
+			string data = "C:\\Users\\User\\Desktop\\file.bin";
 			return data;
 		}
 		public static string getStr(int massive)
